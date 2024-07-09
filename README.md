@@ -35,7 +35,7 @@ Workout Plans: Exercise routines tailored to the user's health condition.
 # Technologies 
 Frontend: HTML, CSS, bootstrap
 Backend: Flask (Python)
-Machine Learning: Scikit-learn, TensorFlow, or any other suitable ML library
+Machine Learning: Scikit-learn,  or any other suitable ML library
 
 
 https://github.com/sundaram25018/Madicine-Recommendation-System/assets/122205914/d397617a-1e5e-40ed-941c-cba83ea99aa9
